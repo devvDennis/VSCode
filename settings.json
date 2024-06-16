@@ -20,6 +20,7 @@
 	"workbench.colorCustomizations": {
 		"titleBar.activeBackground": "#032031",
 		"titleBar.inactiveBackground": "#032031"
+		"statusBar.background": "#032031"
 	},
 	"python.defaultInterpreterPath": "C:\\Program Files\\Python312\\python.exe",
 }
