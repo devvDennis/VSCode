@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+	{
+		"key": "ctrl+oem_1",
+		"command": "toggleVim"
+	},
+	{
+		"key": "cmd+n",
+		"command": "explorer.newFile"
+	}
+]
