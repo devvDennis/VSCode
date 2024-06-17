@@ -1,19 +1,19 @@
 {
-	"python.analysis.typeCheckingMode": "basic",
-	"editor.formatOnSave": true,
-	"workbench.iconTheme": "material-icon-theme",
-	"explorer.confirmDelete": false,
-	"files.autoSave": "afterDelay",
 	"debug.onTaskErrors": "debugAnyway",
+	"editor.formatOnSave": true,
 	"editor.useTabStops": false,
 	"editor.tabSize": 3,
 	"editor.tabCompletion": "on",
-	"window.zoomLevel": 1,
 	"editor.language.brackets": [],
+	"explorer.confirmDelete": false,
 	"explorer.confirmDragAndDrop": false,
-	"git.enableSmartCommit": true,
+	"files.autoSave": "afterDelay",
 	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+	"python.analysis.typeCheckingMode": "basic",
+	"python.defaultInterpreterPath": "C:\\Program Files\\Python312\\python.exe",
 	"vim.smartRelativeLine": true,
+	"window.zoomLevel": 1,
 	"workbench.startupEditor": "none",
 	"workbench.colorTheme": "One Dark Pro Darker",
 	"workbench.colorCustomizations": {
@@ -21,6 +21,6 @@
 		"titleBar.inactiveBackground": "#032031",
 		"statusBar.background": "#032031"
 	},
-	"python.defaultInterpreterPath": "C:\\Program Files\\Python312\\python.exe",
-	"zenMode.hideLineNumbers": false,
+	"workbench.iconTheme": "material-icon-theme",
+	"zenMode.hideLineNumbers": false
 }
