@@ -8,7 +8,6 @@
 	"editor.useTabStops": false,
 	"editor.tabSize": 3,
 	"editor.tabCompletion": "on",
-	"editor.insertSpaces": false,
 	"window.zoomLevel": 1,
 	"editor.language.brackets": [],
 	"explorer.confirmDragAndDrop": false,
@@ -19,8 +18,9 @@
 	"workbench.colorTheme": "One Dark Pro Darker",
 	"workbench.colorCustomizations": {
 		"titleBar.activeBackground": "#032031",
-		"titleBar.inactiveBackground": "#032031"
+		"titleBar.inactiveBackground": "#032031",
 		"statusBar.background": "#032031"
 	},
 	"python.defaultInterpreterPath": "C:\\Program Files\\Python312\\python.exe",
+	"zenMode.hideLineNumbers": false,
 }
