@@ -13,6 +13,7 @@
 	"python.analysis.typeCheckingMode": "basic",
 	"python.defaultInterpreterPath": "C:\\Program Files\\Python312\\python.exe",
 	"vim.smartRelativeLine": true,
+	"vim.foldfix": true,
 	"window.zoomLevel": 1,
 	"workbench.startupEditor": "none",
 	"workbench.colorTheme": "One Dark Pro Darker",
